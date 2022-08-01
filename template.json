@@ -1,0 +1,33 @@
+{
+    "Actor": {},
+    "Item": {
+        "types": [
+            "arma",
+            "magia",
+            "armadura",
+            "item"
+        ],
+        "templates": {
+            "itemDescription": {
+                "description": ""
+            },
+        }
+        "arma": [
+            "dano": 0,
+            "iniciativa": 0,
+        ],
+        "magia": [
+            "alcac"
+        ],
+        "armadura": [
+            "CA": 0,
+            "reducaomovimento": 0
+
+        ],
+        "item": [
+            
+
+        ]
+
+    }
+}
