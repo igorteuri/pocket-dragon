@@ -1,0 +1,26 @@
+{
+    "name": "pocket-dragon",
+    "title": "Pocket Dragon",
+    "description": "Ficha para jogar o Pocket Dragon no Foundry VTT",
+    "author": "Igor Téuri - Dados Críticos",
+    "version": 0.01,
+    "miniminCoreVersion": "0.9",
+    "compatibleCoreVersion": "0.9",
+    "esmodules": [
+        "pocket-dragon.js"
+    ],
+    "styles": [
+        "pocket-dragon.css"
+    ],
+    "packs": [
+
+    ],
+    "languages": [
+
+    ],
+    "gridDistance": 1.5,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "PV",
+    "Initiative": "1d20 + @TP",
+    
+}
