@@ -21,6 +21,6 @@
     "gridDistance": 1.5,
     "gridUnits": "m",
     "primaryTokenAttribute": "PV",
-    "Initiative": "1d20 + @TP",
+    "Initiative": "1d20 + @TP"
     
 }
