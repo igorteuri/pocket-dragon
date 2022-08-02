@@ -7,26 +7,33 @@
             "armadura",
             "item"
         ],
+        // Esse é um template de descrição que pode ser compartilhado em vários itens diferentes
         "templates": {
             "itemDescription": {
                 "description": ""
-            },
-        }
+            }
+        },
         "arma": [
             "dano": 0,
             "iniciativa": 0,
+            "templates": [itemDescription]
         ],
         "magia": [
-            "alcac"
+            "alcance": 0,
+            "dano": 0,
+            "templates": [itemDescription]
         ],
         "armadura": [
             "CA": 0,
-            "reducaomovimento": 0
+            "reducaomovimento": 0,
+            "templates": [itemDescription]
 
         ],
         "item": [
-            
-
+            "templates": [itemDescription]           
+        ],
+        "habilidade": [
+            "templates": [itemDescription]
         ]
 
     }
